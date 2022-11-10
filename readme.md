@@ -4,8 +4,8 @@
 
 This project is also available in netlify.
 
-[Netlify Link]()
+[Netlify Link](https://app.netlify.com/sites/project14-live-class/overview)
 ***
-![badge]()
+![badge](https://img.shields.io/badge/Live--Class-Project14-success)
 ***
 >Let's Check This Now
